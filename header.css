@@ -1,0 +1,21 @@
+div.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner .column-header-name 
+{ 
+    margin-left: unset;
+}
+.center-align {
+    text-align: center;
+  }
+th {
+    text-align: center;
+  }
+.table {
+    font-size: 16px; /* Change the font size */
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0,0,0,.05); /* Stripe color */
+}
+
+.table td, .table th {
+    font-weight: bold; /* Bold the text */
+}
